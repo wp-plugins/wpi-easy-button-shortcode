@@ -1,7 +1,7 @@
 ===  WPi Easy Button Shortcode - Create buttons anywhere in wordpress using button shortcode [wpi_easy_button] === 
 Contributors: wooprali
 Donate link: http://wooprali.prali.in/
-Tags: button shortcode, easy button shortcode
+Tags: button shortcode, easy button shortcode, buttons, easy button, css buttons, css button
 Requires at least: 3.0.1
 Tested up to: 4.1
 Stable tag: 4.3
