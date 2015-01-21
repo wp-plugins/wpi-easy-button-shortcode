@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+
+.wpi_easy_button{
+	background-color:#cccccc;
+	border:2px solid #cccccc!important;
+	color:#333333;
+	padding:5px 20px;	
+	-webkit-transition:all .2s;
+	-moz-transition:all .2s;
+	transition:all .2s;
+	-webkit-border-radius:25px;
+	-moz-border-radius:25px;
+	border-radius:25px;
+	display:inline-block;
+	margin-bottom:10px;	
+}
+.wpi_easy_button:hover{
+	background-color:#ffffff;	
+}
+.wpi_easy_button:active{
+	background-color:#f6f6f6;	
+}
+.wpi_easy_button:focus, .wpi_easy_button:active, .wpi_easy_button:hover {
+    outline: none;
+}
